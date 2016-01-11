@@ -24,8 +24,8 @@ Index your set at zero!  So:
 [2,3,4,5,6,7,8]
 
  ^ ^ ^ ^ ^ ^ ^
+ 
  0,1,2,3,4,5,6
 
  Then "discrete distance" (our cardinality) and our "continuous distance" (distance over the reals since it's a space with a metric) match up!
 
- 
